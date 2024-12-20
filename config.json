@@ -35,22 +35,22 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "61568092215853"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "61568092215853"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
+  "nickNameBot": "ADNAN 卝 ROBOT࿐ツ",
+  "prefix": ".",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "ArYan 🤡",
+  "authorName": "ADNAN 🤡",
   "facebook2": "https://www.facebook.com/raj.vai.404",
   "facebook": "https://www.facebook.com/ArYan.com.404",
   "email": "adriyanaryan@yahoo.com",
