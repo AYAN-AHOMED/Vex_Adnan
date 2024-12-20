@@ -65,11 +65,11 @@ module.exports = {
 
 
       const helpListImages = [
-        "https://i.postimg.cc/8cvDpt37/images-17.jpg", // add image link here
-        "https://i.postimg.cc/qq2VVghn/received-430815183006013.jpg",
-        "https://i.postimg.cc/KzRxVZDr/received-455361183700405.jpg",
-        "https://i.postimg.cc/MGZW70cL/received-435752262736007.jpg",
-        "https://i.postimg.cc/Pq6d2LY5/received-3200033873462285.jpg",
+        "https://i.imgur.com/W6ObhTO.jpeg", // add image link here
+        "https://i.imgur.com/bwUzZuE.jpeg",
+        "https://i.imgur.com/uFudyQH.jpeg",
+        "https://i.imgur.com/W6ObhTO.jpeg",
+        "https://i.imgur.com/bwUzZuE.jpeg",
         // Add more image links as needed
       ];
 
